@@ -12,10 +12,10 @@ npm install @tenapato/username_generator
 
 ## Usage
 
-Import the generateName function from the package and call it to generate a unique username.
+Import the generateUserName function from the package and call it to generate a unique username.
 
 ```js
-import generateName from '@tenapato/username_generator';
+import generateUserName from '@tenapato/username_generator';
 
 const username = generateUserName();
 console.log(username); // Example output: "happy_turing_123"
@@ -24,7 +24,7 @@ console.log(username); // Example output: "happy_turing_123"
 ## Example
 
 ```js
-import generateName from '@tenapato/username_generator';
+import generateUserName from '@tenapato/username_generator';
 
 console.log(generateUserName()); // Example output: "brave_curie_456"
 console.log(generateUserName()); // Example output: "cool_einstein_789"
