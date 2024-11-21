@@ -1,0 +1,27 @@
+{
+  "name": "@tenapato/username_generator",
+  "version": "1.0.0",
+  "description": "This package generates docker like unique usernames",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenapato/username_generator.git"
+  },
+  "keywords": [
+    "npm",
+    "username",
+    "generator",
+    "unique",
+    "docker"
+  ],
+  "author": "Patricio Tena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenapato/username_generator/issues"
+  },
+  "homepage": "https://github.com/tenapato/username_generator#readme"
+}
